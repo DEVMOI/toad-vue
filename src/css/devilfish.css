@@ -1,25 +1,31 @@
-html,
-body {
-    height: 100% !important;
-}
-
-/*Global CSS and Style*/
+/*
+        NodeGG StyleSheet
+        Requires Bootstrap 4
+*/
 .no-list-style {
     list-style: none !important;
 }
 
+/* FONTS */
 .fnt-monospace {
     font-family: monospace !important;
+}
+
+/* FONT SIZES */
+.fnt-14{
+    font-size: 14px !important
 }
 
 .fnt-11 {
     font-size: 11px !important;
 }
 
+/* FONT COLORS */
 .fnt-black {
     color: #000 !important;
 }
 
+/* MAX-WIDTH */
 .mw-150px {
     max-width: 150px !important;
 }

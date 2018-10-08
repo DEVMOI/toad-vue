@@ -1,0 +1,13 @@
+{
+  "name": "toad-vue",
+  "version": "0.0.1",
+  "description": "NodeGG Components and Style",
+  "main": "index.js",
+  "repository": "https://github.com/NodeGG/toad-vue.git",
+  "author": "Moikapy <warrenckhan@gmail.com>",
+  "license": "MIT",
+  "private": null,
+  "devDependencies": {
+    "vue": "^2.5.17"
+  }
+}
