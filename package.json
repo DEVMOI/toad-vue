@@ -1,6 +1,6 @@
 {
   "name": "toad-vue",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha",
   "description": "NodeGG Components and Style",
   "main": "index.js",
   "repository": "https://github.com/NodeGG/toad-vue.git",
@@ -8,6 +8,8 @@
   "license": "MIT",
   "private": null,
   "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-google": "^0.10.0",
     "vue": "^2.5.17"
   }
 }
