@@ -1,3 +1,3 @@
-import * from './components';
+export * from './components';
 
-import * from './mixins';
+export * from './mixins';
