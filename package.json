@@ -1,6 +1,6 @@
 {
   "name": "toad-vue",
-  "version": "0.0.3-alpha",
+  "version": "0.0.4-alpha",
   "description": "NodeGG Components and Style",
   "main": "index.js",
   "repository": "https://github.com/NodeGG/toad-vue.git",
