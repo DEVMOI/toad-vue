@@ -1,0 +1,29 @@
+html,
+body {
+    height: 100% !important;
+}
+
+/*Global CSS and Style*/
+.no-list-style {
+    list-style: none !important;
+}
+
+.fnt-monospace {
+    font-family: monospace !important;
+}
+
+.fnt-11 {
+    font-size: 11px !important;
+}
+
+.fnt-black {
+    color: #000 !important;
+}
+
+.mw-150px {
+    max-width: 150px !important;
+}
+
+.mw-80px {
+    max-width: 80px !important;
+}
