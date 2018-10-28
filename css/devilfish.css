@@ -2,24 +2,42 @@
         NodeGG StyleSheet
         Requires Bootstrap 4
 */
+
+.no-link-style {
+  color: inherit !important;
+  text-decoration: none !important;
+}
 .no-list-style {
     list-style: none !important;
 }
-
+/* BACKGROUNDS */
+.bg-default{
+  background-color: inherit;
+}
+.bg-black{
+  background-color: #000 !important;
+}
+.bg-grey{
+  background-color: #ccc !important;
+}
 /* FONTS */
 .fnt-monospace {
     font-family: monospace !important;
 }
 
 /* FONT SIZES */
+.fnt-18{
+  font-size: 18px !important;
+}
 .fnt-14{
     font-size: 14px !important
 }
-
 .fnt-11 {
     font-size: 11px !important;
 }
-
+.text-small {
+  font-size: 0.7rem !important;
+ }
 /* FONT COLORS */
 .fnt-black {
     color: #000 !important;
@@ -33,3 +51,4 @@
 .mw-80px {
     max-width: 80px !important;
 }
+.w-25 {width: 25% !important; }
