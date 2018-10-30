@@ -30,11 +30,4 @@
   </button>
 </nav>
 </template>
-<script>
-  export default {
-    name:'toolbar',
-    props:{
-      navbarStyle:String,
-    }
-  }
-</script
+<script src='./Toolbar.js'/>
