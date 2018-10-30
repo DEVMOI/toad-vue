@@ -1,5 +1,5 @@
 <template>
-<nav :class="navbarStyle" class="navbar"  v-if="authenticated">
+<nav :class="navbarStyle" class="navbar">
   <!-- Navbar content -->
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav">

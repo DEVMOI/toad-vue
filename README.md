@@ -28,3 +28,5 @@ toad-vue/components/Header
 - Toolbar
 
 - Dropdown
+
+- Button
